@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: *-old*
+Allow: /
+User-agent: Googlebot-Mobile
+Disallow: *-old*
+Allow: /
