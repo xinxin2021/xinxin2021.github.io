@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://xinxin2021.github.io/download/</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-03-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://xinxin2021.tk/</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-03-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://xinxin2021.github.io/blog/</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-03-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</url>
+
+</url>
+
+</urlset>
