@@ -1,7 +1,7 @@
 @font-face {
     font-family: nekotora;
-    src: url(../fonts/nekotora.54f9b137.eot);
-    src: url(../fonts/nekotora.54f9b137.eot#iefix) format("embedded-opentype"), url(../fonts/nekotora.4ea5ebe6.woff2) format("woff2"), url(../fonts/nekotora.9106c612.woff) format("woff"), url(../fonts/nekotora.28169ea4.ttf) format("truetype"), url(../images/nekotora.33032896.svg#nekotora) format("svg");
+    src: url(../fonts/nekotora.eot);
+    src: url(../fonts/nekotora.eot#iefix) format("embedded-opentype"), url(../fonts/nekotora.woff2) format("woff2"), url(../fonts/nekotora.woff) format("woff"), url(../fonts/nekotora.ttf) format("truetype"), url(../images/nekotora.33032896.svg) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -69,7 +69,7 @@
     content: "\e80a"
 }
 
-.icon-douyin:before {
+.icon-twitter:before {
     content: "\f099"
 }
 
@@ -95,6 +95,38 @@
 
 .icon-qq:before {
     content: "\f1d6"
+}
+
+.icon-youtube:before {
+    content: "\f16e"
+}
+
+.icon-telegram:before {
+    content: "\f128"
+}
+
+.icon-gitlab:before {
+    content: "\f129"
+}
+
+.icon-gitee:before {
+    content: "\f132"
+}
+
+.icon-douyin:before {
+    content: "\f130"
+}
+
+.icon-ixigua:before {
+    content: "\f131"
+}
+
+.icon-xiaohongshu:before {
+    content: "\f133"
+}
+
+.icon-kuaishou:before {
+    content: "\f134"
 }
 
 /*# sourceMappingURL=/nekotora.99cf6f8c.css.map */
