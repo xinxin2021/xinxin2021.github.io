@@ -129,4 +129,40 @@
     content: "\f134"
 }
 
+.icon-gpt:before {
+    content: "\f135"
+}
+
+.icon-bing:before {
+    content: "\f136"
+}
+
+.icon-star:before {
+    content: "\f137"
+}
+
+.icon-rss:before {
+    content: "\f138"
+}
+
+.icon-studio:before {
+    content: "\f139"
+}
+
+.icon-feedback:before {
+    content: "\f140"
+}
+
+.icon-drive:before {
+    content: "\f141"
+}
+
+.icon-sponsor:before {
+    content: "\f142"
+}
+
+.icon-status:before {
+    content: "\f143"
+}
+
 /*# sourceMappingURL=/nekotora.99cf6f8c.css.map */
