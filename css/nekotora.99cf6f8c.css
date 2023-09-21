@@ -165,4 +165,28 @@
     content: "\f143"
 }
 
+.icon-box:before {
+    content: "\f144"
+}
+
+.icon-font:before {
+    content: "\f145"
+}
+
+.icon-win:before {
+    content: "\f146"
+}
+
+.icon-editor:before {
+    content: "\f147"
+}
+
+.icon-jupyter:before {
+    content: "\f148"
+}
+
+.icon-alist:before {
+    content: "\f149"
+}
+
 /*# sourceMappingURL=/nekotora.99cf6f8c.css.map */
